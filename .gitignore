@@ -1,0 +1,31 @@
+# Gradle
+.gradle/
+build/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+#Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+#Maven
+log/
+target/
+
+#Mac
+.DS_Store
+
+#Package Files and Code
+*.jar
+*.war
+*.ear
+*.classpath
+
+#hs_err_pid*
